@@ -1,4 +1,4 @@
 # GANet
-Using GAN to emualte art style of Monet.
+Using GAN to emulate art style of Monet.
 
 ![GAN](ganet.png)
